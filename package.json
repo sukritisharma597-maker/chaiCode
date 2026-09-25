@@ -11,9 +11,10 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node Nodejs_1.js"
   },
   "dependencies": {
+    "dotenv": "^18.0.3",
     "express": "^5.2.1"
   }
 }
